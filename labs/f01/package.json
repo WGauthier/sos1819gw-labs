@@ -1,0 +1,11 @@
+{
+  "name": "f01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
